@@ -2,13 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>SaltyDog</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.0.0.482510" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\DataTemplateControl\DataTemplateControl.csproj" />
-  </ItemGroup>
 </Project>

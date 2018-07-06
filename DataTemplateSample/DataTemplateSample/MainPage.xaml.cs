@@ -12,6 +12,11 @@ namespace DataTemplateSample
 		public MainPage()
 		{
 			InitializeComponent();
+
+			BindingContext = new
+			{
+				AValue = "A BindingContext Value"
+			};
 		}
 	}
 }
