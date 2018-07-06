@@ -1,6 +1,9 @@
 
 ***DataTemplateControl*** is a sample Xamarin Forms control that renders different DataTemplates based on a selection value.
 
+![Screen](https://raw.githubusercontent.com/curtisshipley/DataTemplateControl/master/DataTemplateControl.gif "Screen Capture")
+
+
 If you have any questions, or would like specific cusomizations post an issue, or contact the author at curtis@saltydogtechnology.com.
 
 Notes:
