@@ -1,4 +1,7 @@
 
+***I'm keeping this proof of concept, but active development has moved to:*** [https://github.com/curtisshipley/SaltyDogControls](https://github.com/curtisshipley/SaltyDogControls)
+
+
 ***DataTemplateControl*** is a sample Xamarin Forms control that renders different DataTemplates based on a selection value.
 
 ![Screen](https://raw.githubusercontent.com/curtisshipley/DataTemplateControl/master/DataTemplateControl.gif "Screen Capture")
